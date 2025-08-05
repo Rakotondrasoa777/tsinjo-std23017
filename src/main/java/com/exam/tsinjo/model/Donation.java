@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @EqualsAndHashCode
 @Getter
 public class Donation {
-    private String id;
-    private Donor donor;
-    private Payment payementDetail;
+  private String id;
+  private Donor donor;
+  private Payment payementDetail;
 }

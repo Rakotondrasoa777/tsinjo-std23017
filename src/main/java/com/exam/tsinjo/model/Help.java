@@ -10,8 +10,8 @@ import lombok.NoArgsConstructor;
 @EqualsAndHashCode
 @Getter
 public class Help {
-    private String id;
-    private Beneficiary beneficiary;
-    private Payment paymentDetail;
-    private String description;
+  private String id;
+  private Beneficiary beneficiary;
+  private Payment paymentDetail;
+  private String description;
 }
